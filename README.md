@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diaz-ruslanev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=diaz-ruslanev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/diaz-ruslanev/diaz-ruslanev">
     <img alt="Ruslanev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diaz-ruslanev&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" />
   </a>
